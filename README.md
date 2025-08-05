@@ -1,16 +1,15 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Omeshwar Pratap Singh 👋</h1>
+<h3 align="center">Aspiring Cybersecurity Engineer | B.Tech CYS | India 🇮🇳</h3> <br>
 
-<!--
-**omeshwar-pratap-singh/omeshwar-pratap-singh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 2nd Year B.Tech Student in Cybersecurity (2024–2028)
+- 💡 Currently learning: **CCNA, Networking, DSA With C++**
+- 🛡️ Passionate about building a strong foundation in **Cybersecurity & Networking**
+- 🌱 Exploring: VLANs, IP Addressing, Subnetting, OSI Model
+- 🧠 Self-learning via Jeremy’s IT Lab, Apna College, Try Hack Me, and hands-on practice labs
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤝 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omeshwar23/)
+[![Instagram](https://img.shields.io/badge/Instagram-pink?logo=instagram&logoColor=white)](https://www.instagram.com/omeshwar.23/)
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:omeshwarsingh96@gmail.com)
